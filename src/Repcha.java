@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Repcha {
     public static void main(String argu[]) {
         Scanner scanner = new Scanner(System.in);
